@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Portafolio</title>
+
+    <link rel="stylesheet" href="CSS/normalize.css" as="style">
+    <link href="https://fonts.googleapis.com/css2?family=Krub:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="preload" href="./CSS/styles.css" as="style">
+    <link rel="stylesheet" href="./CSS/styles.css">
+</head>
+<body>
+    <header>
+        <section class="fondo">
+            <div class="texto">
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <h1>
+                    Armando Gonzalez Caire
+                </h1>
+            </div>
+            
+        </section>
+
+        <main>
+            <h2>Conoceme</h2>
+
+            <section class="conoceme">
+                <section class="foto">
+
+                </section>
+
+                <section class="armando">
+                    <p>
+                        <b>Armando Gonzalez Caire</b>
+                    </p>
+                </section>
+            </section>
+
+            <h2>Educacion</h2>
+
+            <section class="cuadros">
+                <section class="info">
+                    <h3><b>HTML</b></h3>
+                    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
+                </section>
+                    
+                <section class="info">
+                    <h3><b>CSS</b></h3>
+                    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
+                </section>
+                    
+                <section class="info">
+                    <h3><b>Diseño Web</b></h3>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
+                </section>
+
+                <section class="info">
+                    <h3><b>Frontend</b></h3>
+                    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
+                </section>
+
+                <section class="info">
+                    <h3><b>Y mas</b></h3>
+                    <img src="">
+                </section>
+
+                <section class="info">
+                    <h3><b>Y mas</b></h3>
+                    <img src="">
+                </section>
+            </section>
+
+        </main>
+
+        <hr>
+
+        <footer>
+            <h2>Contactame</h2>
+
+            <section class="footera">
+                <section class="foot">
+                    
+                </section>
+
+                <section class="foot">
+                    <section class="links">
+                        <a href = "https://www.facebook.com/armando.gonzalezcaire?mibextid=LQQJ4d">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" style="fill: rgba(0, 0, 0, 1);transform: msFilter"><path d="M20 3H4a1 1 0 0 0-1 1v16a1 1 0 0 0 1 1h8.615v-6.96h-2.338v-2.725h2.338v-2c0-2.325 1.42-3.592 3.5-3.592.699-.002 1.399.034 2.095.107v2.42h-1.435c-1.128 0-1.348.538-1.348 1.325v1.735h2.697l-.35 2.725h-2.348V21H20a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1z"></path></svg>    
+                        </a>
+
+                        <a href = "https://www.instagram.com/armandios_glez/">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-instagram" width="40" height="40" viewBox="0 0 24 24" stroke-width="1.5" stroke="#5f2b5a" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                                <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+                                <rect x="4" y="4" width="16" height="16" rx="4" />
+                                <circle cx="12" cy="12" r="3" />
+                                <line x1="16.5" y1="7.5" x2="16.5" y2="7.501" />
+                            </svg>
+                        </a>
+
+                        <a href="">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-whatsapp" width="40" height="40" viewBox="0 0 24 24" stroke-width="1.5" stroke="#5f2b5a" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                                <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+                                <path d="M3 21l1.65 -3.8a9 9 0 1 1 3.4 2.9l-5.05 .9" />
+                                <path d="M9 10a0.5 .5 0 0 0 1 0v-1a0.5 .5 0 0 0 -1 0v1a5 5 0 0 0 5 5h1a0.5 .5 0 0 0 0 -1h-1a0.5 .5 0 0 0 0 1" />
+                            </svg>
+                        </a>
+                    </section>
+                    </section>
+                </section>
+
+                <section class="foot">
+                    
+                </section>
+                
+            </section>
+
+
+
+            <br>
+                <p>Todos los derechos reservados © 2023</p>
+            <br>
+        </footer>
+    </header>
+
+</body>
+</html>
